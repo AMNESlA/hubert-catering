@@ -1,0 +1,23 @@
+[{
+        "name": "Paket1",
+        "price": 22000,
+        "description": "paket berisi nasi, ayam, sayur, perkedel, kerupuk ikan, sambal, dan lalapan",
+        "category": "main",
+        "image": "./img/paket1.jpg"
+    },
+    {
+        "name": "paket2",
+        "price": 18000,
+        "description": "paket berisi nasi, mie, bakwan, dan ayam suir",
+        "category": "main",
+        "image": "./img/paket2.jpg"
+    },
+    {
+        "name": "paket3",
+        "price": 27000,
+        "description": "paket berisi nasi, sayur, orek, perkedel, daging, sambal, dan buah",
+        "category": "main",
+        "image": "./img/paket3.jpg"
+    }
+
+]
